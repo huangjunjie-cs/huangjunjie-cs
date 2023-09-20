@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'am currently working on CSS. Yes, CS boy in CSS.
+- 🔭 I'am currently working in CSS. Yes, CS boy in CSS.
 - 📫 You can visit [my homepage](https://huangjunjie-cs.github.io) for more information about me and my research.
 - 🎓 PKUer -> ICTer
 - 😄 Badminton 🏸️
