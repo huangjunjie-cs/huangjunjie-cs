@@ -2,8 +2,9 @@
 
 - 🔭 I'am currently working in CSS. Yes, CS boy in CSS.
 - 📫 You can visit [my homepage](https://huangjunjie-cs.github.io) for more information about me and my research.
-- 🎓 PKUer -> ICTer
+- 🎓 PKUer -> ICTer -> SWUer
 - 😄 Badminton 🏸️
+- 👯 I’m looking to collaborate on CSS.
 
 <!--
 **huangjunjie-cs/huangjunjie-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
