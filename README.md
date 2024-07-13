@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I'am currently working in CSS. Yes, CS boy in CSS.
+- 🔭 I'am currently working in CSS. Yes, CS Researcher in CSS.
 - 📫 You can visit [my homepage](https://huangjunjie-cs.github.io) for more information about me and my research.
 - 🎓 PKUer -> ICTer -> SWUer
 - 😄 Badminton 🏸️
 - 👯 I’m looking to collaborate on CSS.
+- 📖 Book Rec: Zobel, Justin. Writing for computer science. 2014
+
 
 <!--
 **huangjunjie-cs/huangjunjie-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
